@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bread Burger",
+        "image": "https://th.bing.com/th/id/R.a46c53e48e44f5b123b186f20c14e8f1?rik=c6ng%2fo3HfNbfhA&pid=ImgRaw&r=0",
+        "price": 200,
+        "description": "Get your burger recipes here! A barbecue isn't complete without a proper homemade burger so we show you how to make the perfect beef, lamb, pork, fish or veggie burger. All you have to do is choose your toppings. your burger recipes here! A barbecue isn't complete without a properyour burger recipes here! A barbecue isn't complete without a proper"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/delish-homemade-pizza-horizontal-1542312378.png?crop=1xw:0.843328335832084xh;center,top&resize=1200:*",
+        "price": 450,
+        "description": "The pizza was named Ottavia in homage to the first Roman emperor Octavian Augustus, and was made with a gluten-free base. 1 inches) long; it was made in Fontana, California in 2017. pizza was named Ottavia in homage to the first Roman emperor Octavian Augustus, and was made with a gluten-free base. 1 inches) long; it was made in Fontana, California in 2017"
+    },
+    {
+        "name": "Mutton Roast",
+        "image": "https://www.afeliaskitchen.com/wp-content/uploads/2018/12/Masala-Roast-Leg-of-Lamb-970x610.jpg",
+        "price": 850,
+        "description": "We have had roast leg of lamb … oh, so many times I couldnt count. Mutton however, was something on the “not tried this” list. Armed with a good quality leg of mutton and some sage advice from a recipe book, I sailed into uncharted waters and roasted my first mutton joint. Delicious. I can safely say it won to be the last."
+    },
+    {
+        "name": "Chicken Roast",
+        "image": "https://kitchenofdebjani.com/wp-content/uploads/2017/09/Untitled-3-2.jpg.webp",
+        "price": 350,
+        "description": "Roasting a whole chicken at home is easier than it seems. You'll find a detailed ingredient list and step-by-step instructions in the recipe below, but let's go over the basics: In an oven preheated to 350 degrees F, a 3-pound whole chicken should be completely cooked in a little more than an hour. You'll know it's done when the meat is no longer pink at the bone, the juices run clear, and an instant read thermometer inserted into the thickest part of the thigh (near the bone) reads 165 degrees F."
+    },
+    {
+        "name": "Kacchi Biryani",
+        "image": "https://www.dhakafoodster.com/wp-content/uploads/2021/09/Tradition-BD-Kacchi-Combo-Meal11.png",
+        "price": 500,
+        "description": "Cooking kachchi biryani is a labor of love and each time it is perfectly labor of love and each time  paid off when family labor of love and each time  and friends gather labor of love and each time  around the table to bond, enjoy and laugh together while savoring delicious, mouthwatering Biryani.   It is a perfect celebration food for small family get-together as well as large gatherings."
+    },
+    {
+        "name": "Fish Fry",
+        "image": "https://hattyfoods.com/wp-content/uploads/2021/04/Restaurant-style-fish-fry-recipe1.jpg",
+        "price": 250,
+        "description": "We love the Friday Fish Fry that's familiar to anyone from the Midwest or parts of the South. But who can wait until Friday for crispy fried fish with all the fixings? Not us. To save time on a weekday fish fry, we'll prep side dishes over the weekend — sides like slaw and potato salad will only get more delicious with a day or two in the fridge. Here are all the recipes you'll need to put on an expert fish fry. "
+    },
+    {
+        "name": "Payesh",
+        "image": "https://i.ytimg.com/vi/W9yHsjoF7Lk/maxresdefault.jpg",
+        "price": 250,
+        "description": "We love the Friday payesh that's familiar to anyone from the Midwest or parts of the South. But who can wait until Friday for crispy payesh with all the fixings? Not us. To save time on a weekday payesh, we'll prep side dishes over the weekend — sides like slaw and potato salad will only get more delicious with a day or two in the fridge. Here are all the recipes you'll need to put on an expert fish fry. "
+    }
+]
